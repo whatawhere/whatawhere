@@ -1,0 +1,91 @@
+{
+  "version": 1,
+  "login": "winoutcrazy",
+  "seed": "#B36CFF",
+  "seedFromAvatar": false,
+  "scheme": "monochrome",
+  "motion": true,
+  "iconFill": true,
+  "order": [
+    "hero",
+    "socials",
+    "wave",
+    "buttons",
+    "stats",
+    "streak"
+  ],
+  "hidden": [
+    "about",
+    "stack",
+    "projects"
+  ],
+  "hero": {
+    "greeting": "i am",
+    "name": "winoutcrazy",
+    "subtitle": "",
+    "typing": false,
+    "avatarShape": "cookie12",
+    "chips": []
+  },
+  "about": {
+    "title": "I am",
+    "items": []
+  },
+  "stack": {
+    "title": "Tech stack",
+    "groups": []
+  },
+  "projects": {
+    "source": "pinned",
+    "repos": [],
+    "overrides": {},
+    "empty": "No description yet.",
+    "fork": "Fork"
+  },
+  "stats": {
+    "title": "GitHub",
+    "stars": "Stars",
+    "contributions": "Contributions this year",
+    "repos": "Public repos",
+    "followers": "Followers",
+    "calendar": "Last 21 days",
+    "weekdays": "SMTWTFS",
+    "languages": "Languages across my repositories",
+    "showLanguages": true
+  },
+  "streak": {
+    "title": "Streak",
+    "current": "Current streak",
+    "longest": "Longest this year",
+    "days": "days"
+  },
+  "socials": {
+    "items": [
+      {
+        "icon": "brand:telegram",
+        "url": "https://t.me/wuzeto"
+      }
+    ],
+    "variant": "chip",
+    "fill": "brand",
+    "card": true,
+    "shape": "soft"
+  },
+  "buttons": {
+    "items": [
+      {
+        "icon": "brand:villife",
+        "label": "Project · Villife",
+        "url": "http://villife.hs.vc",
+        "style": "filled"
+      },
+      {
+        "icon": "brand:boosty",
+        "label": "Donate · Boosty",
+        "url": "https://boosty.to/whata/donate",
+        "style": "tonal"
+      }
+    ],
+    "card": true
+  }
+}
