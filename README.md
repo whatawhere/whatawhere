@@ -12,6 +12,6 @@
 
 <p><a href="https://github.com/whatawhere/villife"><picture><source media="(prefers-color-scheme: dark)" srcset="villife/card-dark.svg"><img src="villife/card-light.svg" width="100%" alt="Villife"></picture></a></p>
 
-<a href="https://metawka.github.io/expressive-profile/?from=winoutcrazy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+<a href="https://metawka.github.io/expressive-profile/?from=winoutcrazy"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="winoutcrazyn\n\whatawhere"></picture></a>
 
 </div>
