@@ -1,25 +1,25 @@
 {
- "key": "af42331b",
+ "key": "3a977b7",
  "stars": 0,
- "contributions": 76,
+ "contributions": 77,
  "repos": 2,
  "followers": 1,
  "languages": [
   [
    "JavaScript",
-   220020
+   234740
   ],
   [
    "CSS",
-   133864
+   167967
   ],
   [
    "C#",
-   124430
+   124375
   ],
   [
    "HTML",
-   67666
+   74949
   ]
  ],
  "days": [
@@ -129,7 +129,7 @@
     "today": false
    },
    {
-    "c": 5,
+    "c": 6,
     "day": 21,
     "today": true
    }
@@ -143,7 +143,7 @@
   {
    "name": "villife",
    "url": "https://github.com/whatawhere/villife",
-   "text": "Villife is a free music player for Windows, macOS and Linux with SoundCloud search, Spotify metadata import, lyrics, queue, crossfade and a local library.",
+   "text": "Villife is a free ad-free music player for Windows, macOS and Linux with instant track start, smooth crossfade, a local library, SoundCloud search, Spotify metadata and lyrics.",
    "fork": false,
    "stars": 0,
    "language": "JavaScript",
@@ -174,7 +174,7 @@
   {
    "name": "villife",
    "url": "https://github.com/whatawhere/villife",
-   "text": "Villife is a free music player for Windows, macOS and Linux with SoundCloud search, Spotify metadata import, lyrics, queue, crossfade and a local library.",
+   "text": "Villife is a free ad-free music player for Windows, macOS and Linux with instant track start, smooth crossfade, a local library, SoundCloud search, Spotify metadata and lyrics.",
    "fork": false,
    "stars": 0,
    "language": "JavaScript",
