@@ -1,25 +1,25 @@
 {
- "key": "5397f9a8",
+ "key": "cd85e614",
  "stars": 0,
- "contributions": 89,
+ "contributions": 94,
  "repos": 2,
  "followers": 1,
  "languages": [
   [
    "JavaScript",
-   254544
+   477263
   ],
   [
    "CSS",
-   177033
+   326486
+  ],
+  [
+   "HTML",
+   157759
   ],
   [
    "C#",
    128165
-  ],
-  [
-   "HTML",
-   104606
   ]
  ],
  "days": [
@@ -99,7 +99,7 @@
   ],
   [
    {
-    "c": 12,
+    "c": 17,
     "day": 22,
     "today": true
    },
